@@ -4,7 +4,7 @@
 ### Large-Scale Sales Data Processing & Analysis
 
 ### نظرة عامة على المشروع 📝
-يتضمن هذا المشروع معالجة وتحليل مجموعة بيانات ضخمة تحتوي على أكثر من **400,000 سجل مبيعات**. تم التركيز بشكل أساسي على دورة حياة البيانات من التنظيف (Data Cleaning) وحتى الاستخراج النهائي للتقارير، مما يعكس القدرة على التعامل مع البيانات الميدانية المعقدة بكفاءة عالية.
+يتضمن هذا المشروع معالجة وتحليل مجموعة بيانات ضخمة تحتوي على أكثر من **2,000 سجل مبيعات**. تم التركيز بشكل أساسي على دورة حياة البيانات من التنظيف (Data Cleaning) وحتى الاستخراج النهائي للتقارير، مما يعكس القدرة على التعامل مع البيانات الميدانية المعقدة بكفاءة عالية.
 
 ### الأدوات والمهارات المستخدمة 🛠️
 - **الأداة الرئيسية:** Microsoft Excel (Advanced).
@@ -26,7 +26,7 @@
 <div align="left" dir="ltr">
 
 ### Project Overview 📝
-This project involves processing and analyzing a large-scale dataset containing over **400,000 sales records**. The focus was on the entire data lifecycle, from thorough data cleaning to generating final analytical reports, demonstrating the ability to handle complex field data efficiently.
+This project involves processing and analyzing a large-scale dataset containing over **2,000 sales records**. The focus was on the entire data lifecycle, from thorough data cleaning to generating final analytical reports, demonstrating the ability to handle complex field data efficiently.
 
 ### Tools & Technical Skills 🛠️
 - **Primary Tool:** Microsoft Excel (Advanced).
